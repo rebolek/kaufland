@@ -30,3 +30,5 @@ parse source [
                 ]
         ]
 ]
+
+write %akce.csv to-csv/skip data 3
